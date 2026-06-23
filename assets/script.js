@@ -1,0 +1,1 @@
+console.log("Image Compression Tool Loaded");
